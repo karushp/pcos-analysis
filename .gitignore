@@ -1,0 +1,12 @@
+# virtual environment
+venv/
+
+# Jupyter notebook
+*.ipynb
+.ipynb_checkpoints
+
+# Pyenv
+.python-version
+
+#ignore notebook folders
+notebooks/
